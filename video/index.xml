@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>影音分享 on 梅花學苑</title>
+    <link>https://plumschool.github.io/video/</link>
+    <description>Recent content in 影音分享 on 梅花學苑</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 20 Feb 2022 01:49:23 +0800</lastBuildDate><atom:link href="https://plumschool.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>梅花學苑聊工作 EP01</title>
+      <link>https://plumschool.github.io/video/video02/</link>
+      <pubDate>Wed, 22 Dec 2021 21:07:47 +0800</pubDate>
+      
+      <guid>https://plumschool.github.io/video/video02/</guid>
+      <description>尋找工作方向好困擾，兩大祕訣幫助你找到夢幻工作&amp;hellip;   </description>
+    </item>
+    
+    <item>
+      <title>梅花學苑說故事 EP01</title>
+      <link>https://plumschool.github.io/video/video01/</link>
+      <pubDate>Wed, 15 Dec 2021 21:07:47 +0800</pubDate>
+      
+      <guid>https://plumschool.github.io/video/video01/</guid>
+      <description>梅花學苑要來說故事了，本次要說的是&amp;hellip;   </description>
+    </item>
+    
+  </channel>
+</rss>
